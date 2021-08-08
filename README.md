@@ -5,13 +5,13 @@
 
  Author
 Dalia Nyiraneza
- Description of user
+# Description of user
 . user should be able to see hover
 The page should have a very light grey color as specified in the challenge style guide. 
 - user will find  three cards.
 - user will see three different colors on the card
  
-Technologies Used
+# Technologies Used
  
 HTML
 CSS
