@@ -1,11 +1,11 @@
 
-# challenge project1
+challenge project1
  # discription
  This project has 3columns preview card compomnent
 
 # Author
 Dalia Nyiraneza
-# Description of user
+# # Description of user
 . user should be able to see hover
 The page should have a very light grey color as specified in the challenge style guide. 
 - user will find  three cards.
